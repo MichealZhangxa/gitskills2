@@ -1,1 +1,1 @@
-Creating a new branch is quick add merge.
+Creating a new branch is quick and simple add merge.
